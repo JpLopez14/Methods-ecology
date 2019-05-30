@@ -1,7 +1,7 @@
 # Methods-ecology
 
 
-####Se muestras las principales funciones para el analisis ecológico de comunidades####
+#### Se muestras las principales funciones para el analisis ecológico de comunidades ####
 
  1. Calculo de la riqueza, abundancia, diversidad de H', Equidad, Dominancia
  2. Curvas de rarefacción
